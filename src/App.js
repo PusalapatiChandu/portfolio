@@ -174,7 +174,7 @@ environments. </p>
   <div className="timeline">
     <div className="timeline-item">
       <div className="timeline-dot"></div>
-      <div className="timeline-date">Jun 2024 - Aug 2024</div>
+      <div className="timeline-date">Jun 2025 - Aug 2025</div>
       <div className="timeline-content">
         <h3>Intern - Full Stack Developer</h3>
         <p>
@@ -185,7 +185,7 @@ environments. </p>
    
     <div className="timeline-item">
       <div className="timeline-dot"></div>
-      <div className="timeline-date">Jul 2023 - Oct 2023</div>
+      <div className="timeline-date">Oct 2024</div>
       <div className="timeline-content">
         <h3>Workshop- Gen AI</h3>
         <p>
