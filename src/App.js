@@ -208,7 +208,7 @@ Helped 100+ students create their first AI-based projects using tools like ChatG
         🎓 <strong>B.E in CSE-AI</strong>
         <div className="edu-institute">Saveetha School of Engineering</div>
         <div className="edu-badges">
-          <span className="badge-cgpa">⭐ CGPA: 9.26/10 (CSE-AI)</span>
+          <span className="badge-cgpa">⭐ CGPA: 9.42/10 (CSE-AI)</span>
         </div>
       </div>
       <div className="edu-date">2023 – 2027</div>
